@@ -37,7 +37,7 @@ This is a **Product Listing Application** built using **ASP.NET MVC** with **SQL
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/your-repository.git
+   git clone https://github.com/harinik28/Product-Listing-Application.git
 2. Open the solution file (`CRUDOperationsMVC.sln`) in Visual Studio.
 3. Set up the database:
    - Update the connection string in `Web.config`:
@@ -61,9 +61,5 @@ This is a **Product Listing Application** built using **ASP.NET MVC** with **SQL
    - **Delete Product:** Remove a product from the list.
    - **View Products:** See a list of all products with their details and images.
 
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for details.
-```
 
 You can copy-paste this directly into your `README.md` file or any GitHub documentation.
