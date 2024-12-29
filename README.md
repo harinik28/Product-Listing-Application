@@ -62,4 +62,3 @@ This is a **Product Listing Application** built using **ASP.NET MVC** with **SQL
    - **View Products:** See a list of all products with their details and images.
 
 
-You can copy-paste this directly into your `README.md` file or any GitHub documentation.
